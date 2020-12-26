@@ -1,2 +1,2 @@
-# Machine-Learning-
+# Machine-Learning
 Coding Assignments, Quizzes and many more...
